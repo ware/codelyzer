@@ -62,7 +62,7 @@
   },
   "homepage": "https://github.com/mgechev/codelyzer#readme",
   "devDependencies": {
-    "@commitlint/cli": "8.2.0",
+    "@commitlint/cli": "19.7.1",
     "@commitlint/config-angular": "8.2.0",
     "@types/chai": "4.2.13",
     "@types/mocha": "5.2.7",
@@ -77,13 +77,13 @@
     "js-yaml": "3.13.1",
     "json-stringify-pretty-compact": "2.0.0",
     "lint-staged": "9.4.2",
-    "mocha": "6.2.1",
+    "mocha": "11.1.0",
     "ncp": "2.0.0",
-    "node-sass": "4.14.1",
+    "node-sass": "9.0.0",
     "prettier": "2.3.2",
     "rimraf": "3.0.0",
     "rxjs": "6.5.3",
-    "standard-version": "8.0.1",
+    "standard-version": "9.5.0",
     "ts-node": "8.5.4",
     "tslint": "5.20.0",
     "typescript": "3.9.7"
@@ -94,7 +94,7 @@
     "tslint": "^5.0.0 || ^6.0.0"
   },
   "dependencies": {
-    "@angular/core": "9.0.0",
+    "@angular/core": "10.2.5",
     "@angular/compiler": "9.0.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.3",
