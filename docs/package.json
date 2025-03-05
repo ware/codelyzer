@@ -18,15 +18,15 @@
     "@angular/core": "8.2.11",
     "codelyzer": "5.2.2",
     "codemirror": "5.59.2",
-    "rxjs": "6.5.3",
-    "tslint": "5.20.0",
+    "rxjs": "6.6.7",
+    "tslint": "5.20.1",
     "typescript": "3.9.7",
     "uglifyjs": "2.4.11",
     "zone.js": "0.10.2"
   },
   "devDependencies": {
     "browserify": "16.5.0",
-    "rimraf": "3.0.0",
+    "rimraf": "3.0.2",
     "uglify": "0.1.5"
   }
 }
