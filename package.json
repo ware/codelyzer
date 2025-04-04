@@ -72,7 +72,7 @@
     "cat": "0.2.0",
     "chai": "4.2.0",
     "chai-spies": "0.7.1",
-    "cross-env": "6.0.3",
+    "cross-env": "7.0.3",
     "husky": "3.0.9",
     "js-yaml": "3.13.1",
     "json-stringify-pretty-compact": "2.0.0",
